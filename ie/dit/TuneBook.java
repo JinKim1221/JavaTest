@@ -22,7 +22,11 @@ public class TuneBook{
 		int cloestTune = tune.getX();
 
 		for(Tune tune: tunes){
-			if(tune.getX()==tune)
+			if(tune.()==tune)
+			{
+				return tune;
+			}
+			if(tune.toString)
 		}
 
 		return tune;
